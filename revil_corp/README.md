@@ -14,7 +14,7 @@ One of the employees at Lockman Group gave an IT department the call; the user i
 
 ## Let's start
 
-First, we connect to the machine using RDP and provided credentials.
+First, we start the VM and then connect to it using RDP and provided credentials.
 
 ![creds](https://github.com/user-attachments/assets/7f8d5ab6-3fc4-4e74-a2c1-d2c124e59a06)
 
