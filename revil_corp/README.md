@@ -186,13 +186,13 @@ The easiest way would be to acquire the ransom note and extract the URL... but w
 
 So instead, we can just go to "Browser URL history" page and search for said URL.
 
-After little scrolling, you should notice that the user visited "http://decrypt.top" a few times.
+After little scrolling, you should notice that the user visited "http://decryptor.top" a few times.
 
 ![favicon](https://github.com/user-attachments/assets/d1b8059e-32b5-4fcc-963e-c606b6e9ea04)
 
 A quick search should give us the URL we need.
 
-![decrypttop](https://github.com/user-attachments/assets/b04b2faa-1d53-4fe8-8820-e907de3f307e)
+![decryptortop](https://github.com/user-attachments/assets/b04b2faa-1d53-4fe8-8820-e907de3f307e)
 
 This URL is our answer.
 
