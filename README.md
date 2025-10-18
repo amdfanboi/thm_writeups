@@ -1,4 +1,4 @@
 # TryHackMe Write-ups
 Here are my THM write-ups.
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4100358" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/reimu6824.png" alt="meeee :3" />
