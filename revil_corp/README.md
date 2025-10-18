@@ -100,7 +100,7 @@ The answer here is the number of kilobytes.
 
 There are two ways to find out and both of them are very easy : 
 
-- Look at the name of the ransom note (REvil's looks like [Random_Extension]_readme.txt)
+- Look at the name of the ransom note (REvil's looks like [Random_Extension]-readme.txt)
 - Look at the appended extension to some files
 
 ![filesystem2](https://github.com/user-attachments/assets/7ee70e9d-81da-44a3-a86f-6ce68e0bc89b)
@@ -121,7 +121,7 @@ Then you should get the answer which is 48.
 
 ![q8_thm](https://github.com/user-attachments/assets/70060496-d624-4714-9db8-e659981b5a17)
 
-(this question took me around 15 minutes as i didn't unchecked everything and i've eventually guessed the right answer)
+(this question took me around 10 minutes as i didn't unchecked everything and i've eventually guessed the right answer)
 
 ## Q9 : What is the full path to the wallpaper that got changed by an attacker, including the image name?
 
