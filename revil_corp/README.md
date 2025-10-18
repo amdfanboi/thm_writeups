@@ -139,7 +139,7 @@ So the answer here is the full location of the hk8.bmp file.
 
 ## Q10 : The attacker left a note for the user on the Desktop; provide the name of the note with the extension.
 
-If you remember what i've said while explaining the Q8, then i think you should already know what the answer for that question is.
+If you remember what i've said while explaining the Q7, then i think you should already know what the answer for that question is.
 
 ![q10_thm](https://github.com/user-attachments/assets/a7035f48-3777-49de-b1bd-df4c60957770)
 
