@@ -181,7 +181,7 @@ This MD5 hash is the answer.
 
 ## Q14 : In the ransomware note, the attacker provided a URL that is accessible through the normal browser in order to decrypt one of the encrypted files for free. The user attempted to visit it. Provide the full URL path.
 
-The easiest way would be to acquire the ransom note and extract the URL... but we don't have that here.
+The easiest way would be to acquire the ransom note and extract the URL... but we can't do that here.
 
 
 So instead, we can just go to "Browser URL history" page and search for said URL.
