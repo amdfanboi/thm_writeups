@@ -169,9 +169,9 @@ So that means the answer here is d60dff40.lock
 
 ## Q13 : The user downloaded a decryptor hoping to decrypt all the files, but he failed. Provide the MD5 hash of the decryptor file.
 
-If you're still on the Desktop, you should notice the file named d.e.c.r.yp.tor.exe.
+If you're still on the Desktop, then you've probably also noticed the file named d.e.c.r.yp.tor.exe.
 
-In this case, just scroll until you'll notice the MD5 hash.
+In this case, just scroll until you'll notice the MD5 hash of the file.
 
 ![filesystem6](https://github.com/user-attachments/assets/463a2636-b5b9-4226-9c51-a031b3edc5c1)
 
