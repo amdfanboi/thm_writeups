@@ -82,7 +82,7 @@ After finding the binary, just scroll until you'll notice the MD5 hash.
 
 ![md5](https://github.com/user-attachments/assets/a4edd75b-ad89-49fa-9f9b-867681dfa389)
 
-The MD5 hash is the answer here.
+The MD5 hash you've found will be the answer here.
 
 ![q5_thm](https://github.com/user-attachments/assets/6a8bac14-75f4-4123-a5ab-a4545631582c)
 
